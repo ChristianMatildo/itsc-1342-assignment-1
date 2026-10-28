@@ -1,0 +1,3 @@
+PS C:\Software Related\ITSC-1342\ITSC-1342-Assignment-1\tests> python .\test_solution.py
+ALL UNIT TESTS PASSED - ASSIGNMENT 1
+PS C:\Software Related\ITSC-1342\ITSC-1342-Assignment-1\tests>
